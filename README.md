@@ -4,3 +4,5 @@ This certification has 10 different courses, I am posting the Labs and Projects 
  - Python for Data Science, AI & Development
  - Python Project for Data Science
  - Data Anlaysis with Python
+ - Data Visualization with Python
+ - Machine Learning with Python
