@@ -6,3 +6,4 @@ This certification has 10 different courses, I am posting the Labs and Projects 
  - Data Anlaysis with Python
  - Data Visualization with Python
  - Machine Learning with Python
+ - Applied Data Science Capstone
